@@ -8,4 +8,4 @@ spring:
     config:
       server:
         git:
-          uri: git@gitee.com:ziyinjava/microservicecloud-config.git #GitHub上面的git仓库名字
+          uri: https://github.com/ziyinjava/microservicecloud-config.git #GitHub上面的git仓库名字
